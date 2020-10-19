@@ -1,4 +1,4 @@
-package com.epam.izh.rd.online.service;
+package com.epam.lab.service;
 
 public interface MathService {
 
