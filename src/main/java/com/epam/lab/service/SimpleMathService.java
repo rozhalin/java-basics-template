@@ -1,7 +1,6 @@
 package com.epam.lab.service;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class SimpleMathService implements MathService {
